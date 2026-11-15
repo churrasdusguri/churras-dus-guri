@@ -1,0 +1,8 @@
+FOTOS REAIS (opcional)
+Coloque aqui fotos JPG com estes nomes e o site passa a usá-las sozinho:
+  hero.jpg      -> fundo da página inicial (paisagem, escura, 1920x1080)
+  linguica.jpg  -> card da Linguiça
+  bovina.jpg    -> card da Carne bovina
+  frango.jpg    -> card do Frango
+  coracao.jpg   -> card do Coração
+Sem as fotos, o site mostra as ilustrações das carnes.
